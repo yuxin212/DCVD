@@ -2,7 +2,7 @@
 
 ## Overview
 
-The generative model is based on VAE using TensorFlow. Everything for training the model is in `vae.py`, including data loading and processing, model structure, training, and saving model. Python script to reconstruct is `vae_recon.py`, and to sample from latent space is `vae_gen.py`. ~~The training script with style loss is `vae_style.py`~~
+The generative model is based on VAE using TensorFlow. Everything for training the model is in `vae.py`, including data loading and processing, model structure, training, and saving model. ~~Python script to reconstruct is `vae_recon.py`, and to sample from latent space is `vae_gen.py`. The training script with style loss is `vae_style.py`~~
 (Not implemented yet)
 
 ## Requirements
