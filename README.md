@@ -6,10 +6,13 @@ The generative model is based on VAE using TensorFlow. Everything for training t
 
 ## Requirements
 
-Python 3
-Numpy
-PIL
-TensorFlow 1.15 (tested) or latest TensorFlow 2 (not tested)
+*Python 3
+
+*Numpy
+
+*PIL
+
+*TensorFlow 1.15 (tested) or latest TensorFlow 2 (not tested)
 
 ## Training
 
