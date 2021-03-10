@@ -2,8 +2,12 @@
 
 ## Overview
 
-The generative model is based on VAE using TensorFlow. Scripts are at `/projects/piml_inversion/DCVD/`. Everything for training the model is in `vae.py`, including data loading and processing, model structure, training, and saving model. ~~Python script to reconstruct is `vae_recon.py`, and to sample from latent space is `vae_gen.py`. The training script with style loss is `vae_style.py`~~
+The generative model is based on VAE using TensorFlow. Scripts are at `/projects/piml_inversion/DCVD/`. Everything for training the model is in `vae.py`, including data loading and processing, model structure, training, and saving model. Python script to reconstruct is `vae_recon.py`, and to sample from latent space is `vae_gen.py`. ~~The training script with style loss is `vae_style.py`~~
 (Not implemented yet)
+
+### Update
+
+> 03.10.2021 Add python script to reconstruct and sample from latent space. Add number of iterations to 1,000, still not converge. 
 
 ## Requirements
 
